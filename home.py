@@ -52,16 +52,16 @@ def main1():
 
     with tab3:
         st.markdown(f"<h4><span style='font-size:20px; color:gray;'>분류기준</span></h4>", unsafe_allow_html=True)
-        st.write('- **INSURANCE** : 삼성생명의 금융 상품이나 보험 상품에 관한 내용')
-        st.write('- **BUSINESS** : 삼성생명의 경영 활동이나 실적과 관련된 내용')
-        st.write('- **ESG** : 삼성생명의 사회적 책임 활동이나 ESG(환경, 사회, 지배구조)와 관련된 내용')
-        st.write('- **COMPLIANCE** : 삼성생명과 관련된 법적 문제나 규제 이슈에 대한 내용')
-        st.write('- **ORGANIZATION** : 삼성생명의 인사 이동이나 조직 개편과 관련된 내용')
-        st.write('- **MARKET** : 삼성생명의 보험 및 금융 시장에서의 위치나 경쟁 상황과 관련된 내용')
-        st.write('- **TECHINNOV** : 삼성생명의 기술 혁신이나 디지털 전환과 관련된 내용')
-        st.write('- **SPORTS** : 삼성생명 소속 스포츠 구단이나, 스포츠 육성 및 저변확대에 관련된 내용')
-        st.write('- **AD** : 삼성생명의 광고 캠페인이나 홍보 활동과 관련된 내용')
-        st.write('- **NO** : 삼성생명과 관련된 특정 카테고리에 포함되지 않는 내용')
+        st.write('- **INSURANCE** : 금융 상품이나 보험 상품에 관한 내용')
+        st.write('- **BUSINESS** : 경영 활동이나 실적과 관련된 내용')
+        st.write('- **ESG** : 사회적 책임 활동이나 ESG(환경, 사회, 지배구조)와 관련된 내용')
+        st.write('- **COMPLIANCE** : 회사와 관련된 법적 문제나 규제 이슈에 대한 내용')
+        st.write('- **ORGANIZATION** : 인사 이동이나 조직 개편과 관련된 내용')
+        st.write('- **MARKET** : 보험 및 금융 시장에서의 위치나 경쟁 상황과 관련된 내용')
+        st.write('- **TECHINNOV** : 기술 혁신이나 디지털 전환과 관련된 내용')
+        st.write('- **SPORTS** : 소속 스포츠 구단이나, 스포츠 육성 및 저변확대에 관련된 내용')
+        st.write('- **AD** : 광고 캠페인이나 홍보 활동과 관련된 내용')
+        st.write('- **NO** : 회사와 관련된 특정 카테고리에 포함되지 않는 내용')
     st.divider()
 
 
